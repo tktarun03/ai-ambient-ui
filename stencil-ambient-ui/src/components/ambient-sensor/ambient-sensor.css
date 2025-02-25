@@ -1,0 +1,15 @@
+.ambient-box {
+  padding: 15px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #607d8b, #455a64);
+  color: white;
+  text-align: center;
+}
+button {
+  background: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}

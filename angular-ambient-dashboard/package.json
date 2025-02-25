@@ -1,0 +1,11 @@
+{
+    "name": "angular-ambient-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-ambient-ui": "file:../stencil-ambient-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
